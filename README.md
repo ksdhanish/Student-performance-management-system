@@ -1,4 +1,4 @@
-
+ 
 # Student Performance & Attendance Management System
 
 A software application developed to manage student records,
